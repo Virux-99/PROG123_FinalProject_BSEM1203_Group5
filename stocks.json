@@ -1,0 +1,177 @@
+[
+    {
+        "stock_name": "Packet Gari",
+        "stock_amount": 50,
+        "cost_price": 700,
+        "selling_price": 1400,
+        "profit": 700
+    },
+    {
+        "stock_name": "Copper",
+        "stock_amount": 10,
+        "cost_price": 3000,
+        "selling_price": 3500,
+        "profit": 500
+    },
+    {
+        "stock_name": "Rice Bag",
+        "stock_amount": 20,
+        "cost_price": 12000,
+        "selling_price": 15000,
+        "profit": 3000
+    },
+    {
+        "stock_name": "Packet Sugar",
+        "stock_amount": 100,
+        "cost_price": 50,
+        "selling_price": 80,
+        "profit": 30
+    },
+    {
+        "stock_name": "Bread",
+        "stock_amount": 200,
+        "cost_price": 3,
+        "selling_price": 6,
+        "profit": 3
+    },
+    {
+        "stock_name": "Bundle Water",
+        "stock_amount": 40,
+        "cost_price": 400,
+        "selling_price": 700,
+        "profit": 300
+    },
+    {
+        "stock_name": "Laundry Soap",
+        "stock_amount": 60,
+        "cost_price": 20,
+        "selling_price": 40,
+        "profit": 20
+    },
+    {
+        "stock_name": "Gallon Oil",
+        "stock_amount": 15,
+        "cost_price": 450,
+        "selling_price": 650,
+        "profit": 200
+    },
+    {
+        "stock_name": "Milk",
+        "stock_amount": 30,
+        "cost_price": 25,
+        "selling_price": 45,
+        "profit": 20
+    },
+    {
+        "stock_name": "Plastic Cups Pack",
+        "stock_amount": 80,
+        "cost_price": 10,
+        "selling_price": 20,
+        "profit": 10
+    },
+    {
+        "stock_name": "Packet Noodles",
+        "stock_amount": 120,
+        "cost_price": 15,
+        "selling_price": 30,
+        "profit": 15
+    },
+    {
+        "stock_name": "Coca-Cola",
+        "stock_amount": 150,
+        "cost_price": 5,
+        "selling_price": 12,
+        "profit": 7
+    },
+    {
+        "stock_name": "Sardine",
+        "stock_amount": 70,
+        "cost_price": 12,
+        "selling_price": 22,
+        "profit": 10
+    },
+    {
+        "stock_name": "Lipton Tea",
+        "stock_amount": 90,
+        "cost_price": 8,
+        "selling_price": 16,
+        "profit": 8
+    },
+    {
+        "stock_name": "Beans Bag",
+        "stock_amount": 25,
+        "cost_price": 800,
+        "selling_price": 1100,
+        "profit": 300
+    },
+    {
+        "stock_name": "Onion Bag",
+        "stock_amount": 18,
+        "cost_price": 600,
+        "selling_price": 900,
+        "profit": 300
+    },
+    {
+        "stock_name": "Battery Pack",
+        "stock_amount": 50,
+        "cost_price": 30,
+        "selling_price": 60,
+        "profit": 30
+    },
+    {
+        "stock_name": "Packet Gari",
+        "stock_amount": 30,
+        "cost_price": 700,
+        "selling_price": 1300,
+        "profit": 600
+    },
+    {
+        "stock_name": "Rice Bag",
+        "stock_amount": 10,
+        "cost_price": 12000,
+        "selling_price": 15000,
+        "profit": 3000
+    },
+    {
+        "stock_name": "Copper",
+        "stock_amount": 5,
+        "cost_price": 3000,
+        "selling_price": 3600,
+        "profit": 600
+    },
+    {
+        "stock_name": "Packet Sugar",
+        "stock_amount": 150,
+        "cost_price": 50,
+        "selling_price": 80,
+        "profit": 30
+    },
+    {
+        "stock_name": "Bread",
+        "stock_amount": 250,
+        "cost_price": 3,
+        "selling_price": 6,
+        "profit": 3
+    },
+    {
+        "stock_name": "Bundle Water",
+        "stock_amount": 60,
+        "cost_price": 400,
+        "selling_price": 750,
+        "profit": 350
+    },
+    {
+        "stock_name": "Gallon Oil",
+        "stock_amount": 20,
+        "cost_price": 450,
+        "selling_price": 700,
+        "profit": 250
+    },
+    {
+        "stock_name": "Laundry Soap",
+        "stock_amount": 100,
+        "cost_price": 20,
+        "selling_price": 45,
+        "profit": 25
+    }
+]
